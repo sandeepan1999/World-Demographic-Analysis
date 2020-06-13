@@ -6,6 +6,7 @@
 
 ## Resources Used
 Tableau Version: 20
+
 Giphy Capture
 
 ## Visualisation
